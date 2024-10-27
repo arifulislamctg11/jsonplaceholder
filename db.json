@@ -112,6 +112,89 @@
             "website": "ambrose.net",
             "company": "Hoeger LLC"
         }
+    ],
+     "tasks":[
+        {
+            "id": 1,
+            "title": "Complete project proposal",
+            "description": "Draft and finalize the project proposal for the new client.",
+            "status": "in progress",
+            "due_date": "2024-11-05",
+            "priority": "high"
+        },
+        {
+            "id": 2,
+            "title": "Weekly team meeting",
+            "description": "Discuss progress and roadblocks with the team.",
+            "status": "scheduled",
+            "due_date": "2024-10-30",
+            "priority": "medium"
+        },
+        {
+            "id": 3,
+            "title": "Review pull requests",
+            "description": "Go through the open pull requests and provide feedback.",
+            "status": "pending",
+            "due_date": "2024-10-28",
+            "priority": "high"
+        },
+        {
+            "id": 4,
+            "title": "Update client on project status",
+            "description": "Send a project update email to the client.",
+            "status": "completed",
+            "due_date": "2024-10-25",
+            "priority": "low"
+        },
+        {
+            "id": 5,
+            "title": "Design new landing page",
+            "description": "Work with the design team to create a new landing page.",
+            "status": "in progress",
+            "due_date": "2024-11-10",
+            "priority": "high"
+        },
+        {
+            "id": 6,
+            "title": "Plan quarterly review",
+            "description": "Prepare materials for the quarterly business review.",
+            "status": "scheduled",
+            "due_date": "2024-11-15",
+            "priority": "medium"
+        },
+        {
+            "id": 7,
+            "title": "Organize files",
+            "description": "Sort and archive outdated files on the server.",
+            "status": "pending",
+            "due_date": "2024-10-31",
+            "priority": "low"
+        },
+        {
+            "id": 8,
+            "title": "Prepare for product demo",
+            "description": "Rehearse the demo presentation for the new product release.",
+            "status": "in progress",
+            "due_date": "2024-11-01",
+            "priority": "high"
+        },
+        {
+            "id": 9,
+            "title": "Conduct code audit",
+            "description": "Review and optimize codebase for the current project.",
+            "status": "pending",
+            "due_date": "2024-11-08",
+            "priority": "medium"
+        },
+        {
+            "id": 10,
+            "title": "Update employee handbook",
+            "description": "Revise the employee handbook with recent policy changes.",
+            "status": "completed",
+            "due_date": "2024-10-20",
+            "priority": "low"
+        }
     ]
+    
     
   }
